@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,Store
+2026-09-01,Laptop,Electronics,2,55000,Coimbatore
+2026-09-01,Mouse,Electronics,10,800,Coimbatore
+2026-09-02,Keyboard,Electronics,5,1500,Madurai
+2026-09-02,Headphones,Electronics,8,2500,Chennai
+2026-09-03,Notebook,Stationery,20,80,Coimbatore
+2026-09-03,Pen,Stationery,50,20,Madurai
+2026-09-04,Monitor,Electronics,3,12000,Chennai
+2026-09-04,Backpack,Accessories,6,1800,Coimbatore
+2026-09-04,USB Cable,Electronics,15,400,Madurai
+2026-09-04,Water Bottle,Accessories,10,600,Chennai

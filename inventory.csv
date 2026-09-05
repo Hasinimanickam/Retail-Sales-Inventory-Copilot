@@ -1,0 +1,11 @@
+Product,Category,Stock,Reorder_Level
+Laptop,Electronics,5,3
+Mouse,Electronics,25,10
+Keyboard,Electronics,8,10
+Headphones,Electronics,4,8
+Notebook,Stationery,50,20
+Pen,Stationery,100,30
+Monitor,Electronics,6,5
+Backpack,Accessories,12,5
+USB Cable,Electronics,7,10
+Water Bottle,Accessories,20,8
